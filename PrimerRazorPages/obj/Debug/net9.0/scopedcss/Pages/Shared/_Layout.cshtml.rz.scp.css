@@ -39,10 +39,16 @@ button.accept-policy[b-nd1jmnitd7] {
   line-height: inherit;
 }
 
-.footer[b-nd1jmnitd7] {
+.containerr[b-nd1jmnitd7] {
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+  background-color: red;
+  
+}
+.container[b-nd1jmnitd7] 
+{
+  background-color: green;
 }
