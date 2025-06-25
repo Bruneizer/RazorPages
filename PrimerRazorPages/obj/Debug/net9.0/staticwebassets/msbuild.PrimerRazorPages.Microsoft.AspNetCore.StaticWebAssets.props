@@ -1134,23 +1134,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PrimerRazorPages.bqx83j6mmz.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PrimerRazorPages.4hhkmq5yiy.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>PrimerRazorPages</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/PrimerRazorPages</BasePath>
-      <RelativePath>PrimerRazorPages.bqx83j6mmz.bundle.scp.css</RelativePath>
+      <RelativePath>PrimerRazorPages.4hhkmq5yiy.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>bqx83j6mmz</Fingerprint>
-      <Integrity>w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=</Integrity>
+      <Fingerprint>4hhkmq5yiy</Fingerprint>
+      <Integrity>iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PrimerRazorPages.bqx83j6mmz.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PrimerRazorPages.4hhkmq5yiy.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

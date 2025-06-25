@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aJjfQgbW0BnRFQaWJ4+K0LyzoeB4/fkHrBPyumwTDKU=",
+  "Hash": "UDYcjAWonG74V8ALtiKhwJsldzG1aiY6mcYLtjaSKiE=",
   "Source": "PrimerRazorPages",
   "BasePath": "_content/PrimerRazorPages",
   "Mode": "Default",
@@ -395,12 +395,12 @@
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-bqx83j6mmz.gz",
+      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-4hhkmq5yiy.gz",
       "SourceId": "PrimerRazorPages",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PrimerRazorPages",
-      "RelativePath": "PrimerRazorPages#[.{fingerprint=bqx83j6mmz}]?.styles.css.gz",
+      "RelativePath": "PrimerRazorPages#[.{fingerprint=4hhkmq5yiy}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PrimerRazorPages.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eb49y4zggy",
-      "Integrity": "GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=",
+      "Fingerprint": "cc4oro203h",
+      "Integrity": "/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PrimerRazorPages.styles.css"
@@ -1046,12 +1046,12 @@
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-bqx83j6mmz.gz",
+      "Identity": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-4hhkmq5yiy.gz",
       "SourceId": "PrimerRazorPages",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PrimerRazorPages",
-      "RelativePath": "PrimerRazorPages#[.{fingerprint=bqx83j6mmz}]!.bundle.scp.css.gz",
+      "RelativePath": "PrimerRazorPages#[.{fingerprint=4hhkmq5yiy}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PrimerRazorPages.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eb49y4zggy",
-      "Integrity": "GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=",
+      "Fingerprint": "cc4oro203h",
+      "Integrity": "/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PrimerRazorPages.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "bqx83j6mmz",
-      "Integrity": "w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=",
+      "Fingerprint": "4hhkmq5yiy",
+      "Integrity": "iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PrimerRazorPages.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "bqx83j6mmz",
-      "Integrity": "w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=",
+      "Fingerprint": "4hhkmq5yiy",
+      "Integrity": "iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PrimerRazorPages.bundle.scp.css"
@@ -21286,8 +21286,8 @@
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-bqx83j6mmz.gz",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-4hhkmq5yiy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21306,11 +21306,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "W/\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21344,12 +21344,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.bundle.scp.css",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.bundle.scp.css",
       "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PrimerRazorPages.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21359,7 +21359,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1229"
+          "Value": "1230"
         },
         {
           "Name": "Content-Type",
@@ -21367,11 +21367,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21381,7 +21381,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21389,13 +21389,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-bqx83j6mmz.gz",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-4hhkmq5yiy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21412,11 +21412,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21434,7 +21434,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21442,13 +21442,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ="
+          "Value": "sha256-/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk="
         }
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.styles.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-bqx83j6mmz.gz",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.styles.css",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-4hhkmq5yiy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21467,11 +21467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21491,13 +21491,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "W/\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21505,12 +21505,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.styles.css",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.styles.css",
       "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PrimerRazorPages.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21520,7 +21520,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1229"
+          "Value": "1230"
         },
         {
           "Name": "Content-Type",
@@ -21528,11 +21528,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21542,7 +21542,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21550,13 +21550,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
-      "Route": "PrimerRazorPages.bqx83j6mmz.styles.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-bqx83j6mmz.gz",
+      "Route": "PrimerRazorPages.4hhkmq5yiy.styles.css.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-4hhkmq5yiy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21573,11 +21573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21595,7 +21595,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqx83j6mmz"
+          "Value": "4hhkmq5yiy"
         },
         {
           "Name": "label",
@@ -21603,13 +21603,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ="
+          "Value": "sha256-/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk="
         }
       ]
     },
     {
       "Route": "PrimerRazorPages.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-bqx83j6mmz.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-4hhkmq5yiy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21628,11 +21628,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21652,13 +21652,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "W/\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
@@ -21673,7 +21673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1229"
+          "Value": "1230"
         },
         {
           "Name": "Content-Type",
@@ -21681,11 +21681,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21695,13 +21695,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
       "Route": "PrimerRazorPages.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-bqx83j6mmz.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\t8gqlgltyh-4hhkmq5yiy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21718,11 +21718,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21740,13 +21740,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ="
+          "Value": "sha256-/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk="
         }
       ]
     },
     {
       "Route": "PrimerRazorPages.styles.css",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-bqx83j6mmz.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-4hhkmq5yiy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21765,11 +21765,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21789,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "W/\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
@@ -21810,7 +21810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1229"
+          "Value": "1230"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +21818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc=\""
+          "Value": "\"iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +21832,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w0sjkDEICss8nF/TgRnXX1I/5BL2/YRsyj6GEwylszc="
+          "Value": "sha256-iByvIgeBmuTt8KBQJw6yD+VlpM+DYIOdy4/1WRz3CmM="
         }
       ]
     },
     {
       "Route": "PrimerRazorPages.styles.css.gz",
-      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-bqx83j6mmz.gz",
+      "AssetFile": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\RazorPages\\PrimerRazorPages\\obj\\Debug\\net9.0\\compressed\\998czo1bye-4hhkmq5yiy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21855,11 +21855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ=\""
+          "Value": "\"/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 21:14:16 GMT"
+          "Value": "Wed, 25 Jun 2025 21:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +21877,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GqBzYtf4plAlVDNFXC8BxSdtSsbzBg5HVeltX1x1QBQ="
+          "Value": "sha256-/KZpD2eN/dp/DsFV0AIfLQd59/wN7zXjVJSJnuBbGIk="
         }
       ]
     }
